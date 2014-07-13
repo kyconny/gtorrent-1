@@ -22,7 +22,8 @@ Compiling on Windows
 Requires ~~CMake~~ and MinGW
 ```
 top kek no fucken clue without cmake
-gimme a sec
+gimme a sec.
+For now just use cygwin and follow the linux build instructions.
 ```
 
 ~~> cmake -G "MinGW Makefiles" .~~
